@@ -1,0 +1,12 @@
+{
+    "characters": [
+        {
+            "firstName": "John",
+            "lastName": "Smith"
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Bloggs"
+        }
+    ]
+}
