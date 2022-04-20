@@ -3,7 +3,7 @@
 	{"text":"すべて表示", "target":"all"},
 	{"text":"ビーチ", "target":"beech"},
 	{"text":"オーク", "target":"oak"},
-	{"text":"ウォルナット", "target":"walnut"},
+	{"text":"ウォルナット", "target":"walnut"}
     ],
     "clothRanks" : [
 	{"text":"すべて表示", "target":"all"},
@@ -12,6 +12,6 @@
 	{"text":"M-01ランク", "target":"M-01"},
 	{"text":"M-02ランク", "target":"M-02"},
 	{"text":"M-04ランク", "target":"M-04"},
-	{"text":"M-05ランク", "target":"M-05"},
+	{"text":"M-05ランク", "target":"M-05"}
     ]
 }
