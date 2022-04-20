@@ -1,11 +1,11 @@
 {
-        woods : [
+        "woods" : [
                 {number:"201130", file:"beech_NJ-1_t", text:"ビーチ材/ウレタン樹脂塗装(ナチュラルホワイト)", rank:"beech", painting:"NL-0"},
                 {number:"206120", file:"oak_C-0_t", text:"オーク材/ウレタン樹脂塗装(ナチュラルクリア)", rank:"oak", painting:"C-0"},
                 {number:"206130", file:"oak_NL-0_t", text:"オーク材/ウレタン樹脂塗装(ナチュラルホワイト)", rank:"oak", painting:"NL-0"},
                 {number:"206180", file:"oak_NK-1_t", text:"オーク材/ウレタン樹脂塗装(ナチュラルブラック)", rank:"oak", painting:"NK-1"},
                 {number:"226160", file:"walnut_C-0_t", text:"ウォルナット材/ウレタン樹脂塗装(ナチュラルクリア)", rank:"walnut", painting:"C-0"},
                 {number:"226150", file:"walnut_CA-0_t", text:"ウォルナット材/ウレタン樹脂塗装(ナチュラルブラウン)", rank:"walnut", painting:"CA-0"},
-                {number:"226120", file:"walnut_WB-1_t", text:"ウォルナット材/ウレタン樹脂塗装(ライトブラウン)", rank:"walnut", painting:"WB-1"},
+                {number:"226120", file:"walnut_WB-1_t", text:"ウォルナット材/ウレタン樹脂塗装(ライトブラウン)", rank:"walnut", painting:"WB-1"}
             ]
 }
